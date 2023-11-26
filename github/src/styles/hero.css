@@ -1,0 +1,137 @@
+.Hero{
+    color: aliceblue;
+    display: flex;
+    margin-top: 100px;
+}
+
+.border{
+     
+    width: pxpx;
+    height: 250px;
+    border-left: 3px solid rgb(175, 82, 82);
+    margin-left: 100px;
+     margin-top: 40px;
+     margin-right: 50px;
+     position: relative;
+   left: 90px;
+
+
+   border-width: 3px;
+   border-style: solid;
+   border-image: 
+     linear-gradient(
+       to top, 
+       blue, 
+       rgba(0, 0, 0, 0)
+     ) 1 100%;
+ 
+     
+}
+
+.title-one{
+    display: flex;
+    font-size: 6rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+     width: 1300px;
+    margin-left: 120px;
+    align-items: flex-start;
+}
+.title-two{
+    display: flex;
+    align-items: flex-start;
+    font-size: 1.5rem;
+    margin-bottom: 96px;
+    margin-top: 0px;
+    margin-left: 120px;
+    width: 1300px;
+}
+
+.email-input{
+    width: 280px;
+    height: 40px;
+    padding: 5px 12px;
+    border: none;
+     border-top-left-radius: 10px;
+     border-bottom-left-radius: 10px;
+}
+.github-button{
+    width: 200px;
+    height: 50px;
+    padding: 5px 12px;
+    border: none;
+     border-top-right-radius: 10px;
+     border-bottom-right-radius: 10px;
+     background-color: #7E44C4;
+     cursor: pointer;
+}
+.input-button{
+    display: flex;
+    gap: 30px;
+    margin-left: 110px;
+}
+.trial-button{
+    width: 200px;
+    height: 50px;
+    padding: 5px 12px;
+     color: aliceblue;
+     background-color: #0D1117;
+     border:1.5px solid #7E44C4;
+     border-radius:10px  ;
+      cursor: pointer;
+     
+}
+.organisation{
+    margin-top: 96px;
+    width: 1200px;
+    margin-left: 115px;
+    margin-bottom: 150px;
+}
+.organization{
+     margin-top: 0px;
+   width: 500px;  
+    color: #6E7681;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.company-logo{
+    display: flex;
+    justify-content: space-around;
+     
+}
+
+.downAarrow{
+    color: #ffffff;
+    background-color:#00A6ED;
+    border-radius: 2px;
+}
+
+.productive{
+    margin-top: 0px;
+    margin-right: 0px;
+    width: 200px;
+    margin-left: 65px; 
+    font-size: 1.5rem;
+      
+}
+
+.innovation{
+    display: flex;
+    flex-direction: column;
+     align-items: flex-start;
+     line-height: 0.01rem;
+     margin-left: 100px;
+     
+
+}
+.acceleration{
+    font-size: 48px;
+     font-weight: 600;
+     margin-top: 20px;
+}
+.accel-color{
+    color: rgb(21, 136, 57);
+}
+.github-copilot{
+    color: #FFFFFF;
+}

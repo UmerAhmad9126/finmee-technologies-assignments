@@ -1,0 +1,147 @@
+.footer{
+    width: 1243px;
+    height: 410px;
+    background-color: #0D1117;
+    display: flex;
+    margin: auto;
+    padding: 63px 0px;
+    margin-top: 77px;
+
+     
+}
+
+.subscribe{
+    color: white;
+    width: 410px;
+    height: 387px;
+    background-color: #0D1117;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+.product{
+    width: 207px;
+    height: 387px;
+    color: #7D8590;
+    background-color: #0D1117;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 13px;
+}
+.product p{
+    margin-top: 13px;
+    margin-bottom: 2px;
+}
+
+.platform{
+    width: 207px;
+    height: 387px;
+    color: #7D8590;
+    background-color: #0D1117;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.platform p{
+    margin-top: 13px;
+    margin-bottom: 2px;
+}
+.support{
+    width: 207px;
+    height: 387px;
+    color: #7D8590;
+    background-color: #0D1117;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+     
+}
+.support p{
+    margin-top: 13px;
+    margin-bottom: 2px;
+     
+    
+}
+ 
+.company{
+    width: 207px;
+    height: 387px;
+    color: #7D8590;
+    background-color: #0D1117;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.company p{
+    margin-top: 13px;
+    margin-bottom: 2px;
+}
+
+.newsletter{
+    font-size: 16px;
+    color: white;
+    margin-top: -15px;
+    margin-bottom: -12px;
+}
+.tips{
+    font-size: 14px;
+    color: #7491A9;
+}
+.tips1{
+    font-size: 14px;
+    margin-top: -9px;
+    color: #7491A9;
+    
+}
+.svg{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-bottom: 46px;
+}
+
+.button{
+    width: 120px;
+    height: 48px;
+    border: 0.5px solid white;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #0D1117;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 17px;
+
+}
+.footerr{
+    width: 100%;
+    height: 80px;
+      background-color: #161B22;
+      display: flex;
+      justify-content: space-between;
+}
+.licence{
+    display: flex;
+    color: #a2a3a5;
+    gap: 23px;
+    margin-left: 134px;
+    margin-top: 14px;
+    font-size: 12px;
+
+}
+.logo-main{
+    display: flex;
+    
+}
+.logo{
+    width: 35px;
+    height: 23px;
+    margin-top: 25px;
+    margin-left: 10px;
+    color: #a2a3a5;
+}
+.logo-margin{
+    margin-right: 61px;
+}
+ 
